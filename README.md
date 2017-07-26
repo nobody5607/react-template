@@ -4,7 +4,9 @@ git clone https://github.com/chanpan/react-template.git
 
 cd react-template
 
-start
+npm install
+
+start app 
 
 npm run webpack  //เปิดค้างไว้
 
